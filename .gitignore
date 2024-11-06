@@ -1,1 +1,4 @@
 venv/
+data/hopfield_weights.npy
+__pycache__/
+data/
